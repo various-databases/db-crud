@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>edu.hfut</groupId>
+	<artifactId>db-crud</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>DB CRUD</name>
+	<description>DB CRUD with JDBC,DBCP,Mybatis,Hibernate,Druid and Shell</description>
+
+	<modules>
+		<module>db-jdbc</module>
+		<module>db-dhcp</module>
+		<module>db-mybatis</module>
+		<module>db-hibernate</module>
+		<module>db-druid</module>
+		<module>db-shell</module>
+	</modules>
+
+</project>
