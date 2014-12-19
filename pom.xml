@@ -11,7 +11,7 @@
 
 	<modules>
 		<module>db-jdbc</module>
-		<module>db-dhcp</module>
+		<module>db-dbcp</module>
 		<module>db-mybatis</module>
 		<module>db-hibernate</module>
 		<module>db-druid</module>

@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>edu.hfut</groupId>
-	<artifactId>db-dhcp</artifactId>
+	<artifactId>db-dbcp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DB DHCP</name>
-	<description>Connect db with DHCP.</description>
+	<name>DB DBCP</name>
+	<description>Connect db with DBCP.</description>
 
 	<dependencies>
 		<!-- JDBC包 -->
