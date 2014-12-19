@@ -77,4 +77,5 @@ public class HibernateDemo {
 			session.close();
 		}
 	}
+
 }

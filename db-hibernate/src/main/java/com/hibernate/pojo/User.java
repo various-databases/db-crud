@@ -1,13 +1,14 @@
 package com.hibernate.pojo;
 
 public class User {
+
 	private int id;
 	private String first;
 	private String last;
 	private int age;
 
 	public User() {
-
+		//
 	}
 
 	public User(String first, String last, int age) {
